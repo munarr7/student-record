@@ -47,6 +47,7 @@ Installation
 2. Navigate to the project folder
 3. Install the required Python package:
 pip install mysql-connector-python
+
 4.Make sure MySQL is installed and running on your computer.
 5. Open student record.py and enter your own MySQL password where indicated.
    
