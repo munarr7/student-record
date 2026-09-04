@@ -1,8 +1,8 @@
-#Student Record Management System
+**Student Record Management System**
 
 A Python-based student record management application that allows users to manage student information through a SQL database.
 
-Features
+**Features**
 
 * Add student records
 * View student records
@@ -11,14 +11,14 @@ Features
 * Search for student records using Binary Search
 * Store and retrieve student records using a SQL database
 
-#Technologies Used
+**Technologies Used**
 
 * Python
 * SQL
 * Quick Sort
 * Binary Search
 
-#Project Overview
+**Project Overview**
 
 This project was developed to demonstrate the use of Python programming, database management, and searching and sorting algorithms in a practical application.
 
