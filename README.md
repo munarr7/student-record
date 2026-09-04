@@ -33,6 +33,23 @@ The application connects to a SQL database to store and retrieve student records
 * Searching algorithms
 * Python programming
 
+**Installation & Setup**
+
+Requirements
+
+* Python 3.x
+* MySQL
+* mysql-connector-python
+
+Installation
+
+1. Clone the repository
+2. Navigate to the project folder
+3. Install the required Python package:
+pip install mysql-connector-python
+4.Make sure MySQL is installed and running on your computer.
+5. Open student record.py and enter your own MySQL password where indicated.
+   
 **Author**
 
 Munachiso Duru
