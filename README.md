@@ -24,7 +24,7 @@ This project was developed to demonstrate the use of Python programming, databas
 
 The application connects to a SQL database to store and retrieve student records. Quick Sort is used to organize records, while Binary Search is used to efficiently search for specific student records.
 
-#Key Concepts Demonstrated
+**Key Concepts Demonstrated**
 
 * Database connectivity
 * CRUD operations
@@ -33,6 +33,6 @@ The application connects to a SQL database to store and retrieve student records
 * Searching algorithms
 * Python programming
 
-Author
+**Author**
 
 Munachiso Duru
